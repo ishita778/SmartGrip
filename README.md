@@ -8,3 +8,6 @@ SmartGrip is an intelligent exercise bar that leverages AI and Machine Learning 
 - **Visualize Results**: View your workout data with intuitive charts and graphs to track progress over time.
 
 With SmartGrip, you can achieve smarter, safer, and more efficient workouts while keeping your fitness journey organized and motivating.
+
+Here is the link to our app prototype:
+https://www.figma.com/proto/NPqhz93x91fcu8hQklXBIb/Smart-Grip-Page-1?node-id=2-2&t=E4asiiJHIel0Ku3M-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
